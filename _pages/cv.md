@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.Eng in Aircraft Design and Engineering, Beihang University, 2014-2018
+* B.Eng. in Aerospace Engineering, Beihang University, 2014-2018
 * M.S. in Robotics, University of Bristol, 2018-2020
+* Ph.D. candidate in Robotics, The University of Hong Kong, 2022-present
 
 Work experience
 ======
@@ -20,14 +21,14 @@ Work experience
   * Robotics startup in Beijing
   * Duties included: Developing LiDAR-SLAM system
 
-* 2021-2023: Researcher
+* 2021-2022: Researcher
   * China Coal Technology Engineering Group (CCTEG)
   * Duties included: Developing mining robots and sensors
   
 Skills
 ======
-* Software development: Python, C/C++
-* CAD: AutoCAD, CATIA, SolidWorks
-* PCB design: Altium Designer
-* Others: MATLAB, Ansys, Fluent
+* Programming Languages:: Python, C/C++, MATLAB
+* Software: AutoCAD, CATIA, SolidWorks, ANSYS, Fluent, Altium Designer, LaTeX
+* Operating Systems: Mac OS, Windows OS, Linux Ubuntu
+
 
