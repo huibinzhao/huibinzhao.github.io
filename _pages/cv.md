@@ -27,7 +27,7 @@ Work experience
   
 Skills
 ======
-* Programming Languages:: Python, C/C++, MATLAB
+* Programming Languages: Python, C/C++, MATLAB
 * Software: AutoCAD, CATIA, SolidWorks, ANSYS, Fluent, Altium Designer, LaTeX
 * Operating Systems: Mac OS, Windows OS, Linux Ubuntu
 
