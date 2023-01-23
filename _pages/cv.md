@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Aerospace Engineering, Beihang University, 2014-2018
+* B.Eng. in Aircraft Design and Engineering, Beihang University, 2014-2018
 * M.S. in Robotics, University of Bristol, 2018-2020
 * Ph.D. candidate in Robotics, The University of Hong Kong, 2023-present
 
